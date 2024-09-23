@@ -1,1 +1,3 @@
-# Database-mangement-and-Database-Visualization-
+# hello world 
+This is my first respritory 
+i am leanring forward 
